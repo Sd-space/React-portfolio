@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.11ae5200.css",
+    "main.js": "/React-portfolio/static/js/main.51452b79.js",
+    "static/js/415.4d6acbeb.chunk.js": "/React-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/React-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/logo1.png": "/React-portfolio/static/media/logo1.c9a6270940d85bcbaaa6.png",
+    "static/media/emotion.png": "/React-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/React-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/React-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/React-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/resumeo1.pdf": "/React-portfolio/static/media/resumeo1.ac750b2cd99b8dd8f9a8.pdf",
+    "static/media/home-main.svg": "/React-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/React-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/React-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/React-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/React-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/React-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/React-portfolio/index.html",
+    "main.11ae5200.css.map": "/React-portfolio/static/css/main.11ae5200.css.map",
+    "main.51452b79.js.map": "/React-portfolio/static/js/main.51452b79.js.map",
+    "415.4d6acbeb.chunk.js.map": "/React-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ae5200.css",
+    "static/js/main.51452b79.js"
+  ]
+}
